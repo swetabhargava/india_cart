@@ -26,6 +26,9 @@ gem 'pg'
 group :development, :test do
   gem 'byebug', '3.5.0'
 end
+group :production do
+  gem 'pg'
+end
 
 group :development do
   gem 'web-console',           '3.5.1'
