@@ -21,13 +21,11 @@ gem 'email_validator', '~> 1.6'
 gem 'figaro'
 gem 'nicescroll-rails', '~> 3.5', '>= 3.5.4.1'
 gem 'gravatar_image_tag'
-gem 'pg'
+gem 'pg', '0.18.4'
+
 
 group :development, :test do
   gem 'byebug', '3.5.0'
-end
-group :production do
-  gem 'pg'
 end
 
 group :development do
