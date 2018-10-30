@@ -19,6 +19,20 @@
   - - Implementing tickets
   - - Implementing shipping
 
+Images from version V1.0
+
+
+| Home  | Users
+|:-:|:-:|
+| ![First](https://github.com/swetabhargava/india_cart/blob/master/app/assets/images/home.png?raw=true) | ![Sec](https://github.com/swetabhargava/india_cart/blob/master/app/assets/images/users.png?raw=true) |
+
+| Orders  | Articles
+|:-:|:-:|
+| ![First](https://github.com/swetabhargava/india_cart/blob/master/app/assets/images/order.png?raw=true) | ![Sec](https://github.com/swetabhargava/india_cart/blob/master/app/assets/images/article.png?raw=true) |
+
+Cart
+![cart](https://github.com/swetabhargava/india_cart/blob/master/app/assets/images/cart.png?raw=true)
+
 
 ## Getting started
 
